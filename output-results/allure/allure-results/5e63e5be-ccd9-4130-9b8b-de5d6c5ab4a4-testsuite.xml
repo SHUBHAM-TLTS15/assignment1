@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1664132096810' stop='1664132104967'>
+    <name>Verify sliding bar element and actions</name>
+    <title>Verify sliding bar element and actions</title>
+    <test-cases>
+        <test-case start='1664132096811' status='passed' stop='1664132104966'>
+            <name>Verify sliding bar is displayed</name>
+            <title>Verify sliding bar is displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-105.0.5195.127'/>
+                <parameter kind='argument' name='browser' value='chrome-105.0.5195.127'/>
+                <parameter kind='environment-variable' name='WEBSITE' value='https://www.360logica.com/'/>
+            </parameters>
+            <steps>
+                <step start='1664132100900' status='passed' stop='1664132100900'>
+                    <name>TEST: Verified: www.360logica.com is displayed.</name>
+                    <title>TEST: Verified: www.360logica.com is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132100957' status='passed' stop='1664132100957'>
+                    <name>TEST: Verified sliding bar is displayed and clicked.</name>
+                    <title>TEST: Verified sliding bar is displayed and clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132102093' status='passed' stop='1664132102093'>
+                    <name>TEST: Verified X close button is displayed and clicked.</name>
+                    <title>TEST: Verified X close button is displayed and clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

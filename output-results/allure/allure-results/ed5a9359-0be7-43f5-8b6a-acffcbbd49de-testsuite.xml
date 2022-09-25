@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1664132096822' stop='1664132112844'>
+    <name>360logica homePage test suite</name>
+    <title>360logica homePage test suite</title>
+    <test-cases>
+        <test-case start='1664132096822' status='passed' stop='1664132109883'>
+            <name>Verify main menu items displayed</name>
+            <title>Verify main menu items displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-105.0.5195.127'/>
+                <parameter kind='argument' name='browser' value='chrome-105.0.5195.127'/>
+                <parameter kind='environment-variable' name='WEBSITE' value='https://www.360logica.com/'/>
+            </parameters>
+            <steps>
+                <step start='1664132100776' status='passed' stop='1664132100776'>
+                    <name>TEST: Verified: www.360logica.com is displayed.</name>
+                    <title>TEST: Verified: www.360logica.com is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132100853' status='passed' stop='1664132100853'>
+                    <name>TEST: Verified menu item: Solutions is displayed.</name>
+                    <title>TEST: Verified menu item: Solutions is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132101145' status='passed' stop='1664132101145'>
+                    <name>TEST: Verified menu item: Solutions is clicked.</name>
+                    <title>TEST: Verified menu item: Solutions is clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132102176' status='passed' stop='1664132102176'>
+                    <name>TEST: Verified menu item: Frameworks is displayed.</name>
+                    <title>TEST: Verified menu item: Frameworks is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132102277' status='passed' stop='1664132102277'>
+                    <name>TEST: Verified menu item: Frameworks is clicked.</name>
+                    <title>TEST: Verified menu item: Frameworks is clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132103320' status='passed' stop='1664132103320'>
+                    <name>TEST: Verified menu item: Resources is displayed.</name>
+                    <title>TEST: Verified menu item: Resources is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132103388' status='passed' stop='1664132103388'>
+                    <name>TEST: Verified menu item: Resources is clicked.</name>
+                    <title>TEST: Verified menu item: Resources is clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132104424' status='passed' stop='1664132104424'>
+                    <name>TEST: Verified menu item: About Us is displayed.</name>
+                    <title>TEST: Verified menu item: About Us is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132104474' status='passed' stop='1664132104474'>
+                    <name>TEST: Verified menu item: About Us is clicked.</name>
+                    <title>TEST: Verified menu item: About Us is clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132105494' status='passed' stop='1664132105494'>
+                    <name>TEST: Verified menu item: Contact is displayed.</name>
+                    <title>TEST: Verified menu item: Contact is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132107792' status='passed' stop='1664132107792'>
+                    <name>TEST: Verified menu item: Contact is clicked.</name>
+                    <title>TEST: Verified menu item: Contact is clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132108815' status='passed' stop='1664132108815'>
+                    <name>TEST: Verified menu item: Saksoft Group is displayed.</name>
+                    <title>TEST: Verified menu item: Saksoft Group is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132108868' status='passed' stop='1664132108868'>
+                    <name>TEST: Verified menu item: Saksoft Group is clicked.</name>
+                    <title>TEST: Verified menu item: Saksoft Group is clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1664132109883' status='passed' stop='1664132112843'>
+            <name>Verify sliding bar displayed</name>
+            <title>Verify sliding bar displayed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-105.0.5195.127'/>
+                <parameter kind='argument' name='browser' value='chrome-105.0.5195.127'/>
+                <parameter kind='environment-variable' name='WEBSITE' value='https://www.360logica.com/'/>
+            </parameters>
+            <steps>
+                <step start='1664132111720' status='passed' stop='1664132111720'>
+                    <name>TEST: Verified: www.360logica.com is displayed.</name>
+                    <title>TEST: Verified: www.360logica.com is displayed.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132111741' status='passed' stop='1664132111741'>
+                    <name>TEST: Verified sliding bar is displayed and clicked.</name>
+                    <title>TEST: Verified sliding bar is displayed and clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1664132112843' status='passed' stop='1664132112843'>
+                    <name>TEST: Verified X close button is displayed and clicked.</name>
+                    <title>TEST: Verified X close button is displayed and clicked.</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
